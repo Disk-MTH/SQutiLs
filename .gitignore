@@ -1,4 +1,5 @@
 # eclipse
+eclipse
 bin
 *.launch
 .settings
@@ -18,5 +19,5 @@ build
 .gradle
 
 # other
-eclipse
+src/test
 run
